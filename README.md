@@ -16,7 +16,7 @@ This is a Python script that allows you to generate and manage credit card infor
 2. Navigate to the project directory:
 
    ```
-   cd nice-credit-card-generator
+   cd Nice-Credit-Card
    ```
 
 3. Run the script:
