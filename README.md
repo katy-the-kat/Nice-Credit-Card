@@ -22,7 +22,7 @@ This is a Python script that allows you to generate and manage credit card infor
 3. Run the script:
 
    ```
-   python credit_card_generator.py
+   python credit.card.py
    ```
 
 4. Follow the on-screen instructions to interact with the program.
@@ -30,10 +30,6 @@ This is a Python script that allows you to generate and manage credit card infor
 ## Dependencies
 
 This script does not require any external libraries. It uses only the built-in Python modules.
-
-## Security Considerations
-
-The generated credit card numbers are not associated with any real financial institution and are solely for demonstration purposes. Do not use these numbers for any real-world financial transactions.
 
 ## Disclaimer
 
