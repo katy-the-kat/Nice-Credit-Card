@@ -42,10 +42,3 @@ This script is provided for educational and demonstration purposes only. The aut
 ## Contributing
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-This README.md file provides an overview of the project, installation instructions, usage instructions, and information about the project's dependencies, security considerations, and contribution guidelines. You can customize this file further to suit your specific needs.
